@@ -3,6 +3,6 @@
 Simple React template with Vite
 
 
-- [ ] Extremely fast builds
-- [ ] Supports TS, CSS and JSX
-- [ ] Only few transient dependencies
+- [:white_check_mark] Extremely fast builds
+- [:white_check_mark] Supports TS, CSS and JSX
+- [:white_check_mark] Only few transient dependencies
